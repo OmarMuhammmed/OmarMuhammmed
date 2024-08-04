@@ -31,7 +31,5 @@
   <a href="https://x.com/OmarMuhammmed" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/email.png" alt="Email"/>
-  </a>
+ 
 </p>
