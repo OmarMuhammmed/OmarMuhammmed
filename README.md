@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xvMHpydWU5eGV1OHk2djlxZXB4ejR1ZWR4ODNmd2VhcG1vajFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif)" width="200" alt="Coding gif">
+  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xvMHpydWU5eGV1OHk2djlxZXB4ejR1ZWR4ODNmd2VhcG1vajFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif]" width="200" alt="Coding gif">
 </p>
 
 <h2 align="center">🛠️ Skills</h2>
