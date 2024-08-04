@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xvMHpydWU5eGV1OHk2djlxZXB4ejR1ZWR4ODNmd2VhcG1vajFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif]" width="200" alt="Coding gif">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xvMHpydWU5eGV1OHk2djlxZXB4ejR1ZWR4ODNmd2VhcG1vajFxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="200" alt="Coding gif">
 </p>
 
 <h2 align="center">🛠️ Skills</h2>
@@ -24,6 +24,8 @@
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </p>
 
 <h2 align="center">📫 Connect with me</h2>
