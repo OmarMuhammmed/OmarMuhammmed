@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi there, I'm Omar Muhammed! 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blue" alt="Backend Developer">
@@ -28,10 +28,10 @@
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/omar-muhammed-9a7428285/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://x.com/OmarMuhammmed" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
   <a href="mailto:your-email@example.com" target="_blank">
