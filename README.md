@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" alt="Django REST Framework">
 </p>
 
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django" width="40" height="40"/>
