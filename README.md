@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" alt="Django REST Framework">
 </p>
+<p align="center">
+  <img src="https://i.pinimg.com/736x/1f/56/aa/1f56aa0f57aac64477293c143f93bd85.jpg" width="50%" height="50%"  alt="Software Engineering" />
+</p>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
 <p align="center">
@@ -24,9 +27,7 @@
   I'm a passionate Backend Engineer with experience in building web applications using Django, Django REST Framework, and other technologies. I enjoy solving complex problems and creating efficient, scalable systems.
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/1f/56/aa/1f56aa0f57aac64477293c143f93bd85.jpg" width="50%" height="50%"  alt="Software Engineering" />
-</p>
+
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
