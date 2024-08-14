@@ -18,7 +18,8 @@
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </p>
-  
+
+<img src="https://img.icons8.com/color/48/000000/python.png](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
