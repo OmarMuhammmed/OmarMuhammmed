@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" alt="Django REST Framework">
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/1f/56/aa/1f56aa0f57aac64477293c143f93bd85.jpg" width="30%" height="30%"  alt="Software Engineering" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ4bGFwYnRlNzdzbWF2a3J0MDJ4dmppNnRkYXc0Zjh3emhhcG5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" width="30%" height="30%"  alt="Software Engineering" />
 </p>
 
 <h2 align="center">🛠️ Skills & Technologies</h2>
