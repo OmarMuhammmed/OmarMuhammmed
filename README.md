@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/564x/a1/00/38/a10038ed393c8945967204c77992f170.jpg"  width="400" height="400" alt="Software Engineering" />
+  <img src="https://i.pinimg.com/564x/73/f2/30/73f230735e612910d76203f243ba801b.jpg"  width="400" height="400" alt="Software Engineering" />
 </p>
 
 <h2 align="center">📫 Connect with me</h2>
