@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="Backend Engineer" width="400" height="200"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wnieb6T4h7xtKAKZ3hJCTg.png" alt="Software Engineering" width="400" height="200"/>
 </p>
 
 <h2 align="center">📫 Connect with me</h2>
