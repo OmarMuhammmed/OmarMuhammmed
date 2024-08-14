@@ -19,7 +19,14 @@
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
 </p>
 
-<img src="https://img.icons8.com/color/48/000000/python.png](https://media1.tenor.com/m/2fXbn6Xtt0UAAAAC/software-software-development.gif"/>
+<h2 align="center">🧑‍💻 About Me</h2>
+<p align="center">
+  I'm a passionate Backend Engineer with experience in building web applications using Django, Django REST Framework, and other technologies. I enjoy solving complex problems and creating efficient, scalable systems.
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" alt="Backend Engineer" width="400" height="200"/>
+</p>
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
@@ -29,5 +36,4 @@
   <a href="https://x.com/OmarMuhammmed" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
   </a>
- 
 </p>
