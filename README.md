@@ -13,10 +13,12 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django REST Framework" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Django Redis" width="40" height="40"/>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
@@ -26,8 +28,6 @@
 <p align="center">
   I'm a passionate Backend Engineer with experience in building web applications using Django, Django REST Framework, and other technologies. I enjoy solving complex problems and creating efficient, scalable systems.
 </p>
-
-
 
 <h2 align="center">📫 Connect with me</h2>
 <p align="center">
