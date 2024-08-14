@@ -10,6 +10,8 @@
   <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="600" height="450"/>
 </div>
 
+<img width='34%' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+
 <p  <a href="https://www.python.org/">
         <img src='https://techstack-generator.vercel.app/python-icon.svg' alt="icon" width="40" height="40" />
             <td align="center" width="96">
