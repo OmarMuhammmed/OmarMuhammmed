@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Backend-Developer-blue" alt="Backend Developer">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" alt="Django REST Framework">
-  <img src = "https://komarev.com/ghpvc/?username=OmarMuhammmed&abbreviated=true">
+  <img src = "https://komarev.com/ghpvc/?username=OmarMuhammmed&label=PROFILE+VIEWS">
 </p>
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ4bGFwYnRlNzdzbWF2a3J0MDJ4dmppNnRkYXc0Zjh3emhhcG5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" width="30%" height="30%"  alt="Software Engineering" />
