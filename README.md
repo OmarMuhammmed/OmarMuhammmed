@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Omar Muhammed! 👋</h1>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Developer-blue" alt="Backend Developer">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
@@ -18,10 +18,9 @@
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/celery.png" alt="celery" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/Docker.png" alt="Docker" width="40" height="40"/>
+  <i class="fab fa-docker"></i>
+  <i class="fas fa-database"></i>
+  <i class="fas fa-leaf"></i>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
