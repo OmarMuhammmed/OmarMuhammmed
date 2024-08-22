@@ -19,7 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Django Redis" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/celery.png" alt="celery" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/redis.png" alt="redis" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/Docker.png" alt="Docker" width="40" height="40"/>
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
