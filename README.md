@@ -17,8 +17,8 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" height="40" alt="Celery"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="40" alt="Redis"/>
+  <img src="" height="40" alt="Celery"/>
+  <img src="https://camo.githubusercontent.com/8224a9a848cb00939124391229575768fb9483e7f7032094cbbc51e0377e1e06/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656469732f72656469732d6f726967696e616c2e737667" height="40" alt="Redis"/>
   <img src="https://camo.githubusercontent.com/dd35b550eae97295faa3e2420c5d3ad49c5c451edac91201211b4486d55d0878/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" height="40" alt="Docker"  />
   
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
