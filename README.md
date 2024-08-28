@@ -24,7 +24,7 @@
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://e1.pngegg.com/pngimages/947/906/png-clipart-clay-os-6-a-macos-icon-visual-studio-code-blue-and-white-illustration-thumbnail.png" alt="VScode" width="40" height="40"/>
+  <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VScode" width="40" height="40"/>
 </p>
 
 <h2 align="center">🧑‍💻 About Me</h2>
