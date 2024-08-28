@@ -24,7 +24,7 @@
   <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/25d07ba4220a3fcadb4af12394d157494ec298dec4ecd86321961427ea18c9e8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VScode" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx1NJhbu7WI1qEUocM_uISJHrL4HRo8K8YDQ&s" alt="VScode" width="40" height="40"/>
 </p>
 
 <h2 align="center">🧑‍💻 About Me</h2>
