@@ -29,7 +29,7 @@
 
 <h2 align="center">🧑‍💻 About Me</h2>
 <p align="center">
-  I'm a passionate Backend Engineer with experience in building web applications using Django, Django REST Framework, and other technologies. I enjoy solving complex problems and creating efficient, scalable systems.
+ I'm a passionate Backend Engineer with experience in building web applications using Django, Django REST Framework, and other technologies. I enjoy solving complex problems and creating efficient, scalable systems, I'm skilled in optimizing backend performance and integrating modern technologies to enhance application functionality. My goal is to deliver reliable and maintainable code that supports long-term project growth.
 </p>
 
 <h2 align="center">📫 Connect with me</h2>
