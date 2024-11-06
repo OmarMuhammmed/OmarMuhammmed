@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/omar-muhammed-9a7428285/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/OmarMuhammmed" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter"/>
+  <a href="https://wa.me/01157420362" target="_blank">
+    <img src="https://web.whatsapp.com/favicon-64x64.ico" alt="Watsapp"/>
   </a>
 </p>
