@@ -7,7 +7,6 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 🔭 **I'm currently working on**: Building scalable and optimized backend solutions using Django & Django REST Framework.  
 👯 **I'm looking to collaborate on**: API development, and backend optimization.  
 🌱 **I'm currently learning**: Design Patterns and TDD  
-⚡ **Fun fact**: I enjoy solving complex problems and automating repetitive tasks!
 
 ---
 
