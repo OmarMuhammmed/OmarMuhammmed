@@ -17,7 +17,6 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com)
 
-[![](https://visitcount.itsvg.in/api?id=OmarMuhammmed&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ## 🛠 Tech Stack:
@@ -33,3 +32,4 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 ---
 
 [![](https://visitcount.itsvg.in/api?id=OmarMuhammmed&icon=0&color=0)](https://visitcount.itsvg.in)
+
