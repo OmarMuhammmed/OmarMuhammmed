@@ -7,8 +7,7 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 🔭 **I'm currently working on**: Building scalable and optimized backend solutions using Django & Django REST Framework.  
 👯 **I'm looking to collaborate on**: API development, and backend optimization.  
 🌱 **I'm currently learning**: Design Patterns and TDD  
-🌱 **learning and sharing insights through educational content and programming roadmaps.
-🎯 **Active in the tech community, helping others start their programming journey.
+🎯 Active in the tech community, helping others start their programming journey
 
 
 
@@ -18,6 +17,7 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com)
 
+[![](https://visitcount.itsvg.in/api?id=OmarMuhammmed&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 ## 🛠 Tech Stack:
