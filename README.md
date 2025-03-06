@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there, I'm Omar Muhammed:
 
 I'm a Backend Engineer with a strong foundation in **software engineering principles**, particularly backend development and database design. I have hands-on experience in building web applications using **Django and Django REST Framework**. My passion lies in solving challenging problems and designing scalable, efficient systems. I'm skilled at optimizing backend performance and integrating modern technologies to enhance application functionality. My goal is to craft reliable, maintainable, and robust solutions that support long-term project success
 
@@ -29,7 +29,5 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 ![](https://nirzak-streak-stats.vercel.app/?user=OmarMuhammmed&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMuhammmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-[![](https://visitcount.itsvg.in/api?id=OmarMuhammmed&icon=0&color=0)](https://visitcount.itsvg.in)
 
