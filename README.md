@@ -1,40 +1,32 @@
-<h1 align="center">Hi there, I'm Omar Muhammed! 👋</h1>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-blue" alt="Backend Developer">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white" alt="Django REST Framework">
-  <img src ="https://komarev.com/ghpvc/?username=OmarMuhammmed&color=blue&style=flat">
-</p>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemQ4bGFwYnRlNzdzbWF2a3J0MDJ4dmppNnRkYXc0Zjh3emhhcG5hbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.webp" width="30%" height="30%"  alt="Software Engineering" />
-</p>
+# 💫 About Me:
 
-<h2 align="center">🛠️ Skills & Technologies</h2>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpAq2i0YoBpm512rJCWDRZulLbATRWtcR3ug&s" height="40" alt="Celery"/>
-  <img src="https://www.stackery.io/assets/images/posts/redis-cache-cluster-support/featured.svg" height="40" alt="Redis"/>
-<!--   <img src="https://camo.githubusercontent.com/dd35b550eae97295faa3e2420c5d3ad49c5c451edac91201211b4486d55d0878/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d6f726967696e616c2e737667" height="40" alt="Docker"  />
-   -->
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" alt="Postman" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/f39f203ca1defeb47e3505ef9044d3303c038c60de7e67f6c229992602e59128/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667" alt="VScode" width="40" height="40"/>
-</p>
+I'm a Backend Engineer with a strong foundation in **software engineering principles**, particularly backend development and database design. I have hands-on experience in building web applications using **Django and Django REST Framework**. My passion lies in solving challenging problems and designing scalable, efficient systems. I'm skilled at optimizing backend performance and integrating modern technologies to enhance application functionality. My goal is to craft reliable, maintainable, and robust solutions that support long-term project success
 
-<h2 align="center">🧑‍💻 About Me</h2>
-<p align="center">
- I'm a passionate Backend Engineer with experience in building web applications using Django, Django REST Framework, and other technologies. I enjoy solving complex problems and creating efficient, scalable systems, I'm skilled in optimizing backend performance and integrating modern technologies to enhance application functionality. My goal is to deliver reliable and maintainable code that supports long-term project growth.
-</p>
+## 🔍 About Me:
 
-<h2 align="center">📫 Connect with me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/omar-muhammed-9a7428285/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-</p>
+🔭 **I'm currently working on**: Building scalable and optimized backend solutions using Django & Django REST Framework.  
+👯 **I'm looking to collaborate on**: API development, and backend optimization.  
+🌱 **I'm currently learning**: Design Patterns and TDD  
+⚡ **Fun fact**: I enjoy solving complex problems and automating repetitive tasks!
+
+---
+
+## 🌍 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com)
+
+---
+
+## 🛠 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%233772a3.svg?style=for-the-badge&logo=celery&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitFlow](https://img.shields.io/badge/gitflow-%231c1c1c.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=OmarMuhammmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=OmarMuhammmed&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMuhammmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=OmarMuhammmed&icon=0&color=0)](https://visitcount.itsvg.in)
