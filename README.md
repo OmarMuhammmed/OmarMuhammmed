@@ -1,8 +1,8 @@
-# Hi there, I'm Omar Muhammed: ![Visitors](https://visitor-badge.glitch.me/badge?page_id=OmarMuhammmed.OmarMuhammmed)
+# Hi there, I'm Omar Muhammed:
 
 I'm a Backend Engineer with a strong foundation in **software engineering principles**, particularly backend development and database design. I have hands-on experience in building web applications using **Django and Django REST Framework**. My passion lies in solving challenging problems and designing scalable, efficient systems. I'm skilled at optimizing backend performance and integrating modern technologies to enhance application functionality. My goal is to craft reliable, maintainable, and robust solutions that support long-term project success
 
-## 🔍 About Me:
+## 🔍 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=OmarMuhammmed)
 
 🔭 **I'm currently working on**: Building scalable and optimized backend solutions using Django & Django REST Framework.  
 👯 **I'm looking to collaborate on**: API development, and backend optimization.  
