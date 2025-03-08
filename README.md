@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi I'm Omar MUhammed :
+![Profile Views](https://komarev.com/ghpvc/?username=OmarMuhammmed)
 
 I'm a Backend Engineer with a strong foundation in **software engineering principles**, particularly backend development and database design. I have hands-on experience in building web applications using **Django and Django REST Framework**. My passion lies in solving challenging problems and designing scalable, efficient systems. I'm skilled at optimizing backend performance and integrating modern technologies to enhance application functionality. My goal is to craft reliable, maintainable, and robust solutions that support long-term project success
 
@@ -7,7 +8,6 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 🔭 **I'm currently working on**: Building scalable and optimized backend solutions using Django & Django REST Framework.  
 👯 **I'm looking to collaborate on**: API development, and backend optimization.  
 🌱 **I'm currently learning**: Design Patterns and TDD  
-⚡ **Fun fact**: I enjoy solving complex problems and automating repetitive tasks!
 🎯 Active in the tech community, helping others start their programming journey
 
 ---
