@@ -8,7 +8,7 @@ I'm a Backend Engineer with a strong foundation in **software engineering princi
 👯 **I'm looking to collaborate on**: API development, and backend optimization.  
 🌱 **I'm currently learning**: Design Patterns and TDD  
 🎯 Active in the tech community, helping others start their programming journey
-![Profile Views](https://komarev.com/ghpvc/?username=OmarMuhammmed)
+- ![Profile Views](https://komarev.com/ghpvc/?username=OmarMuhammmed)
 
 
 ---
