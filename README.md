@@ -15,16 +15,10 @@
 ---
 
 ## 💫 About Me
-
-```yaml
-name: Omar Muhammed
-role: Backend Developer
-location: Egypt
-currently_working_on: High-performance backend systems with Django & DRF
-learning: System Design | Database Internals | Operating Systems
-open_to_collaborate: API Development | Backend Optimization | AI Integrations
-community: Mentoring beginners | Open-source contributor | Knowledge sharing
-```
+🔭 Currently working on: Building high-performance backend systems with Django, DRF, and exploring asynchronous architectures.<br>
+👯 Looking to collaborate on: API development, backend optimization, full-stack and AI integrations<br>
+🌱 Currently learning: System Design, DB Internals, Operating Systems<br>
+🎯 Tech community: Mentoring beginners, contributing to open-source, and sharing knowledge on LinkedIn
 
 ---
 
@@ -72,6 +66,7 @@ community: Mentoring beginners | Open-source contributor | Knowledge sharing
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+---
 
 ---
 
