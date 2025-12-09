@@ -15,7 +15,7 @@
 ---
 
 ## 💫 About Me
-I am Software Engineer not related tech stack
+I am Software Engineer not related tech stack <br>
 🔭 Currently working on: Building high-performance backend systems with Django, DRF, and exploring asynchronous architectures.<br>
 👯 Looking to collaborate on: API development, backend optimization, full-stack and AI integrations<br>
 🌱 Currently learning: System Design, DB Internals, Operating Systems<br>
