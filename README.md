@@ -3,14 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Omar+Muhammed;Product-minded+Backend+Engineer;Django+%7C+NestJS+%7C+FastAPI;I+am+not+bound+to+a+specific+tech+stack.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=OmarMuhammmed&label=Profile+Views&color=818cf8&style=flat-square" />
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-omarmhd.swe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201157420362)
-&nbsp;
-![Status](https://img.shields.io/badge/Open_to_Work-34d399?style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285) [![Email](https://img.shields.io/badge/Email-omarmhd.swe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201157420362) ![Status](https://img.shields.io/badge/Open_to_Work-34d399?style=flat-square)
 
 </div>
 
