@@ -4,16 +4,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=OmarMuhammmed&label=Profile+Views&color=818cf8&style=flat-square" />
 &nbsp;
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285)
 &nbsp;
-
 [![Email](https://img.shields.io/badge/Email-omarmhd.swe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com)
 &nbsp;
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201157420362)
 &nbsp;
-
 ![Status](https://img.shields.io/badge/Open_to_Work-34d399?style=flat-square)
 
 </div>
