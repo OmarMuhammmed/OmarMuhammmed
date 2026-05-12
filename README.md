@@ -73,14 +73,13 @@ I mentor beginners, contribute to open-source, and share knowledge on LinkedIn.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=OmarMuhammmed&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarMuhammmed&theme=tokyonight&hide_border=true&layout=compact&count_private=true&langs_count=8" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=OmarMuhammmed&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=OmarMuhammmed&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
