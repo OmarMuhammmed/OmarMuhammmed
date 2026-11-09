@@ -1,38 +1,50 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Omar+Muhammed;Product-minded+Backend+Engineer;Django+%7C+NestJS+%7C+FastAPI;I+am+not+bound+to+a+specific+tech+stack.)](https://git.io/typing-svg)
+# Hi, I'm Omar Muhammed 👋
 
-<img src="https://komarev.com/ghpvc/?username=OmarMuhammmed&label=Profile+Views&color=818cf8&style=flat-square" />
+### Software Engineer · Backend Developer · Exploring AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285) [![Email](https://img.shields.io/badge/Email-omarmhd.swe%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201157420362) ![Status](https://img.shields.io/badge/Open_to_Work-34d399?style=flat-square)
+I build backend systems that turn product ideas into useful, reliable services.
+
+<img src="https://komarev.com/ghpvc/?username=OmarMuhammmed&label=Profile+Views&color=818cf8&style=flat-square" alt="Profile views" />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-818CF8?style=flat-square&logo=github&logoColor=white)](https://omarmuhammmed.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:omarmhd.swe@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/201157420362)
+![Status](https://img.shields.io/badge/Open_to_Work-34d399?style=flat-square)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-```python
-omar = {
-    "role":      "Backend Engineer",
-    "location":  "Al Qalyubiyah, Egypt 🇪🇬",
-    "learning":  ["System Design", "DB Internals", "Operating Systems"],
-    "ask_me":    ["Django", "DRF", "FastAPI", "NestJS", "PostgreSQL", "Docker"],
-    "available": True,
-}
-```
+I'm a product-minded software engineer based in Egypt with **2+ years of professional experience** building backend systems with **Python, Django, NestJS, and PostgreSQL**. I've worked on marketplaces, transportation and delivery platforms, CRMs, and subscription products.
 
-I build **scalable, user-focused backend systems** that drive real business growth.
-Proficient in **Django**, **NestJS**, and **FastAPI** — with solid experience in PostgreSQL, cloud infrastructure, and DevOps practices.
-I mentor beginners, contribute to open-source, and share knowledge on LinkedIn.
+- 🔧 I enjoy designing APIs, asynchronous workflows, real-time systems, and payment integrations.
+- 🧠 I'm learning more about **AI** and exploring how it can be applied to useful products.
+- 🌱 I'm also studying system design, database internals, and operating systems.
+- 🤝 I enjoy mentoring beginners, contributing to open source, and sharing what I learn.
 
----
+## 🤖 AI & Product Work
+
+At **Madinah Innovation**, I helped build **Neutration**, an AI-powered fitness and nutrition platform with personalized meal generation. My work included asynchronous processing with Celery and Redis, and real-time collaboration through WebSockets.
+
+I'm continuing to learn about AI and its applications alongside my backend engineering work.
+
+## 💼 Professional Experience
+
+- **Software Engineer · Tradeway** — CRM architecture, accounting services, marketing analytics, and database infrastructure. *(July 2026–present)*
+- **Backend Developer · EES** — APIs for transportation services, driver and fleet management, and shared wallet payments. *(May–August 2026, contract)*
+- **Backend Engineer · Madinah Innovation** — AI-powered nutrition, subscriptions, and a multi-tenant university offers platform. *(October 2025–present, part-time)*
+- **Backend Engineer · Functo Software House** — CRM improvements, property matching, and access control. *(July–October 2025)*
 
 ## 🚀 Featured Projects
 
-- [**Ecommerce API**](https://github.com/OmarMuhammmed/Ecommerce-API) — A Django REST API for products, orders, and payments, with PostgreSQL search, Redis caching, and Celery background tasks.
-- [**Product Search API**](https://github.com/OmarMuhammmed/product-search-api) — A Django and PostgreSQL search API supporting English and Arabic queries, partial matches, and misspellings.
-- [**Recipe API**](https://github.com/OmarMuhammmed/recipe-api) — A Dockerized Django REST API for recipes, ingredients, and authentication, built with a test-driven approach.
+- [**Ecommerce API**](https://github.com/OmarMuhammmed/Ecommerce-API) — Django REST API for products, orders, and payments, with PostgreSQL search, Redis caching, and Celery tasks.
+- [**Product Search API**](https://github.com/OmarMuhammmed/product-search-api) — Django and PostgreSQL search supporting English and Arabic queries, partial matches, and misspellings.
+- [**Recipe API**](https://github.com/OmarMuhammmed/recipe-api) — Dockerized Django REST API for recipes, ingredients, and authentication, built with a test-driven approach.
 
 ---
 
@@ -109,10 +121,8 @@ I mentor beginners, contribute to open-source, and share knowledge on LinkedIn.
 
 <div align="center">
 
-**💬 Open to collaborations, freelance, or just a good tech conversation**
+**💬 Open to collaborations, freelance, or a good tech conversation**
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://omarmuhammmed.github.io/)
+[Let's connect on LinkedIn](https://linkedin.com/in/omar-muhammed-9a7428285) · [Explore my portfolio](https://omarmuhammmed.github.io/)
 
 </div>
