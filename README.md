@@ -27,26 +27,12 @@ I'm a product-minded software engineer based in Egypt with **2+ years of profess
 - 🌱 I'm also studying system design, database internals, and operating systems.
 - 🤝 I enjoy mentoring beginners, contributing to open source, and sharing what I learn.
 
-## 🤖 AI & Product Work
-
-At **Madinah Innovation**, I helped build **Neutration**, an AI-powered fitness and nutrition platform with personalized meal generation. My work included asynchronous processing with Celery and Redis, and real-time collaboration through WebSockets.
-
-I'm continuing to learn about AI and its applications alongside my backend engineering work.
-
 ## 💼 Professional Experience
 
 - **Software Engineer · Tradeway** — CRM architecture, accounting services, marketing analytics, and database infrastructure. *(July 2026–present)*
 - **Backend Developer · EES** — APIs for transportation services, driver and fleet management, and shared wallet payments. *(May–August 2026, contract)*
 - **Backend Engineer · Madinah Innovation** — AI-powered nutrition, subscriptions, and a multi-tenant university offers platform. *(October 2025–present, part-time)*
 - **Backend Engineer · Functo Software House** — CRM improvements, property matching, and access control. *(July–October 2025)*
-
-## 🚀 Featured Projects
-
-- [**Ecommerce API**](https://github.com/OmarMuhammmed/Ecommerce-API) — Django REST API for products, orders, and payments, with PostgreSQL search, Redis caching, and Celery tasks.
-- [**Product Search API**](https://github.com/OmarMuhammmed/product-search-api) — Django and PostgreSQL search supporting English and Arabic queries, partial matches, and misspellings.
-- [**Recipe API**](https://github.com/OmarMuhammmed/recipe-api) — Dockerized Django REST API for recipes, ingredients, and authentication, built with a test-driven approach.
-
----
 
 ## 🛠️ Tech Stack
 
