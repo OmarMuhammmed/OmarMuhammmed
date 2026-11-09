@@ -28,6 +28,14 @@ I mentor beginners, contribute to open-source, and share knowledge on LinkedIn.
 
 ---
 
+## 🚀 Featured Projects
+
+- [**Ecommerce API**](https://github.com/OmarMuhammmed/Ecommerce-API) — A Django REST API for products, orders, and payments, with PostgreSQL search, Redis caching, and Celery background tasks.
+- [**Product Search API**](https://github.com/OmarMuhammmed/product-search-api) — A Django and PostgreSQL search API supporting English and Arabic queries, partial matches, and misspellings.
+- [**Recipe API**](https://github.com/OmarMuhammmed/recipe-api) — A Dockerized Django REST API for recipes, ingredients, and authentication, built with a test-driven approach.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Backend & Frameworks**
@@ -105,6 +113,6 @@ I mentor beginners, contribute to open-source, and share knowledge on LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-muhammed-9a7428285)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://omarmuhammmed.github.io/)
 
 </div>
